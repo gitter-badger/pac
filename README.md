@@ -1,5 +1,7 @@
 # pac
 
+[![Join the chat at https://gitter.im/kaiyulee/pac](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kaiyulee/pac?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 pac is a simple deployment tool with ssh and rsync, no scm tools required. It can work with any kind of projects which need to deploy to 1 or more \*nix servers.
 
 ## Before start
